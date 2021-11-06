@@ -113,4 +113,9 @@ span{
     background-color: #E5E5E5;
     padding: 8px;
   }
-  
+  .footer{
+    background-image: url(images/image8.png);
+    height: 800px;
+background-size: contain;
+background-repeat: no-repeat;
+  }
