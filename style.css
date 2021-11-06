@@ -113,9 +113,13 @@ span{
     background-color: #E5E5E5;
     padding: 8px;
   }
-  .footer{
+  .bookings{
     background-image: url(images/image8.png);
     height: 800px;
 background-size: contain;
 background-repeat: no-repeat;
+color: #fff;
+  }
+ .detail{
+margin-top: 80px;
   }
