@@ -39,3 +39,8 @@ background-repeat: no-repeat;
 
     
   }
+  .header h1{
+    color: #fff;
+    margin-top: 80px;
+    margin-left: 60px;
+  }
