@@ -38,9 +38,21 @@ background-repeat: no-repeat;
   padding: 0 20px;
 
     
+  }.nav button{
+    color: #fff;
+    background-color: #F19321;
+    padding: 8px;
   }
   .header h1{
     color: #fff;
     margin-top: 80px;
     margin-left: 60px;
+    font-size: 40px;
+  }
+  .header button{
+    color: #fff;
+    background-color: #F19321;
+    padding: 12px;
+    margin-left: 60px;
+    margin-top: 50px;
   }
