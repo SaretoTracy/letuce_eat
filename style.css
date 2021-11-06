@@ -1,6 +1,7 @@
 .container{
   margin: 0;
   padding: 0;
+  width: 100%;
 }
 .main{
 background-image: url(images/image2.png);
@@ -92,3 +93,24 @@ span{
   .mn h2{
     color:F19321 ;
   }
+  .order{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    
+  }
+  .meal{
+    border: 1px solid #fff;
+    background-color: #fff;
+    margin-bottom: 40px;
+  }
+  #cash{
+    color: #F19321;
+    font-weight: 700;
+  }
+  #orderbtn{
+    border: #E5E5E5;
+    background-color: #E5E5E5;
+    padding: 8px;
+  }
+  
