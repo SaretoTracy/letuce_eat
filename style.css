@@ -6,3 +6,20 @@ background-repeat: no-repeat;
   
 }
 
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 20px;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  .logo p{
+      color: #BE7518;
+  }
+  
