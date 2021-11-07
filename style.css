@@ -97,12 +97,12 @@ color: F19321;
 span{
   margin-top: 30px;
   font-size: 32px;
-  margin: auto;
-  padding: 1rem;
-  height: 4rem;
-  width: 5rem;
+  height: 80px;
+  width: 80px;
   border-radius: 50%;
   background-color: #F19321;
+  color: #fff;
+
  
   }
   .review{
@@ -164,15 +164,17 @@ font-size: 14px;
     padding: 8px;
   
   }
-  .bookings{
+.bookings{
 background-image: url(images/image8.png);
 height: 800px;
 background-size: contain;
 background-repeat: no-repeat;
-color: #fff;
+height: 400px;
+border: 1px border;
 }
  .detail{
 margin-top: 80px;
+color: #fff;
   }
   .footer{
     background-color: black;
