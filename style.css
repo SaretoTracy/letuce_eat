@@ -33,10 +33,12 @@ background-image: url(images/image2.png);
   .nav{
       display: flex;
       justify-content: space-between;
+
   }
   ul{
       display: flex;
     list-style: none;
+    margin-right: 30px;
   }
   ul li a{
 
@@ -44,6 +46,13 @@ background-image: url(images/image2.png);
       color: #fff;
   padding: 0 20px;
 
+  }
+  #moringa{
+border:1px solid #F19321 ;
+background-color: #F19321;
+color: #fff;
+padding: 4px;
+margin-top: -5px;
   }
   .header h1{
     color: #fff;
@@ -62,6 +71,8 @@ background-image: url(images/image2.png);
     background-color: #E5E5E5;
     margin-top: 0;
     text-align: center;
+    border: 1px solid #E5E5E5;
+    height: 600px;
   }
   
 .services h2{
