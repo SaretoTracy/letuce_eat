@@ -40,7 +40,7 @@ background-image: url(images/image2.png);
     margin-right: 30px;
   }
   ul li a{
-
+font-size: 18px;
     text-decoration: none;
       color: #fff;
   padding: 0 20px;
@@ -76,7 +76,7 @@ margin-top: -5px;
   
 .services h2{
 margin: 30px;
-color: F19321;
+color: #F19321;
 }
 .guide{
   display: flex;
@@ -113,9 +113,17 @@ span{
     color: #fff;
     text-align: center;
     float: right;
-    margin-top: 90px;
-    margin-right: 10px;
+    margin-top: 100px;
+    margin-right: 200px;
   }
+  .view h2{
+text-decoration: underline;
+font-size: 35px;
+  }
+  .view h3{
+    margin-top: 50px;
+  }
+
 .menu{
   text-align: center;
   background-color: #E5E5E5;
@@ -124,7 +132,7 @@ span{
 }
  
   .mn h2{
-    color:F19321 ;
+    color:#F19321 ;
   }
   .order{
     display: flex;
@@ -183,6 +191,7 @@ font-size: 14px;
   .book{
     padding: 8px;
 background:none;
+color: #fff;
   }
   .footer{
     background-color: black;
