@@ -4,11 +4,12 @@
   width: 100%;
 }
 .main{
-background-image: url(images/image2.png);
-height: 800px;
-background-size: contain;
+
+height: 700px;
+background-size: cover;
 background-repeat: no-repeat;
- 
+border: 1px;
+background-image: url(images/image2.png);
 }
 
 .navbar {
@@ -94,7 +95,7 @@ span{
     text-align: center;
     float: right;
     margin-top: 90px;
-    margin-right: 150px;
+    margin-right: 10px;
   }
 .menu{
   text-align: center;
